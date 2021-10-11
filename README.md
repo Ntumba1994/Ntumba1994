@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Albert
-- 👀 I’m intersed in aims
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interseted in machine learning
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
 <!---
