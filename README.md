@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Albert
 - 👀 I’m interseted in machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m a student at Aims SENEGAL
 - 📫 How to reach me ...
 
 <!---
